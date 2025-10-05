@@ -6,8 +6,6 @@
 #include <ctime>   
 using namespace std; 
 
-// Template class Dataset
-// This class can store any type T (int, double, string)
 template <typename T>
 class Dataset {
 private:
